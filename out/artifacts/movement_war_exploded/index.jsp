@@ -17,7 +17,7 @@
 
   <div class="transbox">
     <h1 class="header">Join the Movement as:</h1>
-    <a href = "WEB-INF/organization.jsp">An Organization</a>
+    <a href = "organization.jsp">An Organization</a>
     <br>
     <a href = "#">An Action</a>
     <br>

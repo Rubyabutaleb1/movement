@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+}
+.body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(Photos/homeFist.JPG);
+    background-size: cover;
+}
+
+.topnav {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-color: #d13939;
+}
+
+.topnav a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: #efefef;
+    color: black;
+}
+
+@media (max-width: 650px) {
+    .column.side, .column.middle {
+        width: 100%;
+    }
+}
+

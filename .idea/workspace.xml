@@ -2,90 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f407bb0-ab1b-45dc-85cc-3393f4237e98" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/brand/bootstrap-outline.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/brand/bootstrap-punchout.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/brand/bootstrap-social-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/brand/bootstrap-social.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/brand/bootstrap-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/css/docs.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/css/docs.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/bootstrap-stack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/bootstrap-themes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/favicons/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/favicons/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/favicons/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/favicons/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/favicons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/favicons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/favicons/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/favicons/mstile-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/favicons/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/favicons/mstile-310x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/favicons/mstile-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/favicons/mstile-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/img/favicons/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/js/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/js/docs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/js/src/application.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/js/src/ie-emulation-modes-warning.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/js/src/pwa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/js/vendor/anchor.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/js/vendor/clipboard.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/js/vendor/holder.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/js/vendor/jquery-slim.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/js/vendor/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_ads.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_algolia.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_anchor.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_brand.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_browser-bugs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_callouts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_clipboard-js.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_colors.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_component-examples.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_content.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_examples.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_masthead.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_nav.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_sidebar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_skiplink.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_syntax.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/assets/scss/docs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/bootstrap-4.0.0/dist/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/cover-example/cover.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/cover-example/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movement/Photos/homeFist.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/Movement/web/Photos/homeFist.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movement/Photos/marchForLives.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Movement/web/Photos/marchForLives.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movement/Photos/movementHome.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Movement/web/Photos/movementHome.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movement/Photos/speaking.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Movement/web/Photos/speaking.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Movement/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Movement/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/navbar-fixed-example/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/navbar-fixed-example/navbar-top-fixed.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/sign-in-example/cover.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Movement/web/sign-in-example/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movementHomeProto.indd" beforeDir="false" afterPath="$PROJECT_DIR$/Index Prototype.indd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movementPhotos/homeFist.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movementPhotos/marchForLives.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movementPhotos/movementHome.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movementPhotos/speaking.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Movement/web/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Movement/web/styles.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,24 +19,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Movement/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Movement/web/styles.css">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -136,9 +58,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Movement/web/styles.css" />
         <option value="$PROJECT_DIR$/Movement/web/cover-example/cover.css" />
         <option value="$PROJECT_DIR$/Movement/web/cover-example/index.html" />
+        <option value="$PROJECT_DIR$/Movement/web/styles.css" />
         <option value="$PROJECT_DIR$/Movement/web/index.jsp" />
       </list>
     </option>
@@ -150,9 +72,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="35" />
+    <option name="x" value="74" />
     <option name="y" value="23" />
-    <option name="width" value="1207" />
+    <option name="width" value="1112" />
     <option name="height" value="737" />
   </component>
   <component name="ProjectView">
@@ -160,8 +82,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,6 +105,23 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="movement" type="cbb8eebc:String" user="movement" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="movement" type="cbb8eebc:String" user="movement" />
+              <item name="Movement" type="cbb8eebc:String" user="Movement" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,7 +131,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/Rubyabutaleb1/movement.git" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Movement/web" />
       <recent name="$PROJECT_DIR$/Movement/web/cover-example" />
     </key>
   </component>
@@ -252,6 +193,66 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_movement" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49568" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -263,44 +264,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522534915838</updated>
-      <workItem from="1522534920646" duration="3333000" />
+      <workItem from="1522534920646" duration="4166000" />
+      <workItem from="1522543319142" duration="1438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3333000" />
+    <option name="totallyTimeSpent" value="5604000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="23" width="1207" height="737" extended-state="0" />
+    <frame x="74" y="23" width="1112" height="737" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25434962" />
-      <window_info id="Web" side_tool="true" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" visible="true" weight="0.32880846" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27607915" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
@@ -312,26 +316,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Movement/web/cover-example/index.html">
+    <entry file="file://$PROJECT_DIR$/Movement/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Movement/web/cover-example/cover.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-355">
-          <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Movement/web/styles.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Movement/web/cover-example/index.html" />
+    <entry file="file://$PROJECT_DIR$/Movement/web/cover-example/cover.css" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -340,10 +333,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Movement/web/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Movement/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
